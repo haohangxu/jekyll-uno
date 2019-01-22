@@ -1,0 +1,5 @@
+.about-content {
+    h4 {
+        font-weight: 500;
+    }
+}
